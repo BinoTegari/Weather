@@ -1,5 +1,5 @@
 # Weather
-<link href="https://www.codewars.com/users/BinoTegari/badges/large"></link>
+<link>https://www.codewars.com/users/BinoTegari/badges/large</link>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
